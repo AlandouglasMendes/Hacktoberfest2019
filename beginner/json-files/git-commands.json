@@ -334,4 +334,8 @@
     "title": "git rev-list --count master",
     "description": "count the number of commits on a branch"
   }
+{
+    "title": "git commit -m"
+    "description": "This command send your alterations to the project"
+}
 ]
